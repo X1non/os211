@@ -8,3 +8,5 @@ ZCZC W00 30 L13 Assignment #3
 ZCZC W00 30 L05 GSGS related for Assignment #3
 ZCZC W00 5 L14 Assignment #4
 ZCZC W00 20 L01 Reading announcements and others in Scele
+ZCZC W00 100 L02 ZOOM weekly meetings on 22 Feb
+ZCZC W00 40 L05 GSGS related for PopQuiz
