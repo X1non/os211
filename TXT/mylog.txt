@@ -13,12 +13,16 @@ ZCZC W00 40 L05 GSGS related for PopQuiz
 ZCZC W01 120 L02 ZOOM weekly meeting on 1 Mar
 ZCZC W01 120 L11 Assignment #1 - Setting up a new Debian guest
 ZCZC W01 15 L05 GSGS related for Assignment #1
-ZCZC W01 70 L12 Assignment #2 - Reading some of the links lecture provides
+ZCZC W01 70 L12 Assignment #2 - Reading some of the links lecturer provides
 ZCZC W01 30 L13 Assignment #3 - Read and learn some of basic CLI and regex commands
 ZCZC W01 15 L14 Assignment #4 - Change my Guest username from x1non to X1non
 ZCZC W01 30 L14 Assignment #4 - Setting up .bash_aliases
 ZCZC W01 40 L15 Assignment #5 - Setup git, clone my 'os221' repo and 'SistemOperasi' repo, and copy of Demo week 1
 ZCZC W01 15 L16 Assignment #6 - Updating mylog.txt thru vi editor
 ZCZC W01 100 L04 Copying cbkadal's page and make some changes for my Github Page
+ZCZC W01 60 L17 Assignment #7 - Creating top 10 List
+ZCZC W01 30 L18 Assignment #8 - Trying on bash, regex, sed, and awk
+ZCZC W01 60 L05 GSGS for Assignment #7 and #8
+ZCZC W01 30 L06 Reading OSC10
 
  
