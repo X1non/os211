@@ -27,7 +27,7 @@
 }
 
 .container a {
-  color: white;
+  color: #FFFFFF;
 }
 
 .container a:hover {
@@ -35,6 +35,7 @@
 }
 
 .row {
+  border: 3px solid black;
 }
 
 .column {
