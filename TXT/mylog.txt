@@ -24,5 +24,13 @@ ZCZC W01 60 L17 Assignment #7 - Creating top 10 List
 ZCZC W01 30 L18 Assignment #8 - Trying on bash, regex, sed, and awk
 ZCZC W01 60 L05 GSGS for Assignment #7 and #8
 ZCZC W01 30 L06 Reading OSC10
-
- 
+ZCZC W02 80 L02 Zoom weekly meeting on 8 Mar
+ZCZC W02 15 L01 Scele ROT13 Special
+ZCZC W02 30 L01 Scele PopQuiz
+ZCZC W02 30 L06 Reading OSC10 about Security and Protection
+ZCZC W02 70 L10 Assignment #2 to #4 - Generate GnuPG Key Pair, import 'os-vlsm' pub key, and export my pub key
+ZCZC W02 30 L15 Assignment #5 - Ranking my 10 neighbors
+ZCZC W02 60 L16 Assignment #6 - Updating my top 10 list for week 02
+ZCZC W02 80 L05 GSGS related for my top 10 list 
+ZCZC W02 15 L17 Assignment #7 - Copying bash script
+ZCZC W02 15 L19 Assignment #9 - Make and sign SHA256SUM.asc
