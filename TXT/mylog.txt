@@ -34,3 +34,12 @@ ZCZC W02 60 L16 Assignment #6 - Updating my top 10 list for week 02
 ZCZC W02 80 L05 GSGS related for my top 10 list 
 ZCZC W02 15 L17 Assignment #7 - Copying bash script
 ZCZC W02 15 L19 Assignment #9 - Make and sign SHA256SUM.asc
+ZCZC W03 30 L23 Discord PopQuiz
+ZCZC W03 100 L02 Zoom weekly meeting on 17 Mar
+ZCZC W03 30 L01 Scele PopQuiz
+ZCZC W03 40 L11 Assignment #1 - Read OSC-10 Ch.13-15
+ZCZC W03 30 L14 Assignment #4 - Ranking my 10 neighbors
+ZCZC W03 60 L15 Assignment #5 - Top 10 List
+ZCZC W03 10 L16 Assignment #6 - Update mylog.txt
+ZCZC W03 30 L17 Assignment #7 - Tarball
+ZCZC W03 10 L18 Assignment #8 - Update bash script 
