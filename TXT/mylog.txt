@@ -42,4 +42,18 @@ ZCZC W03 30 L14 Assignment #4 - Ranking my 10 neighbors
 ZCZC W03 60 L15 Assignment #5 - Top 10 List
 ZCZC W03 10 L16 Assignment #6 - Update mylog.txt
 ZCZC W03 30 L17 Assignment #7 - Tarball
-ZCZC W03 10 L18 Assignment #8 - Update bash script 
+ZCZC W03 10 L18 Assignment #8 - Update bash script
+ZCZC W04 20 L23 Discord PopQuiz - W03Q1N
+ZCZC W04 105 L02 Zoom weekly meeting on 24 Mar
+ZCZC W04 20 L01 Scele PopQuiz W04Q1 Special - Pubkey
+ZCZC W04 20 L02 Zoom PopQuiz W04Q2 - Email chktoken
+ZCZC W04 20 L11 Assignment #1 - Read OSC-10 Ch.9
+ZCZC W04 30 L12 Assignment #2 - CICIL TT Demos
+ZCZC W04 30 L13 Assignment #3 - Ranking my 10 neighbors 
+ZCZC W04 60 L14 Assignment #4 - Top 10 List
+ZCZC W04 90 L05 GSGS related for my top 10 list
+ZCZC W04 20 L15 Assignment #5 - Update mylog.txt
+ZCZC W04 40 L16 Assignment #6 - Tarball
+ZCZC W04 10 L17 Assignment #7 - Update bash script
+ZCZC W04 20 L22 YouTube - Mr. Yoda Yoda
+ZCZC W04 30 L01 Scele - Trying to access os211.vlsm.org
