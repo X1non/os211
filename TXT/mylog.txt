@@ -57,3 +57,12 @@ ZCZC W04 40 L16 Assignment #6 - Tarball
 ZCZC W04 10 L17 Assignment #7 - Update bash script
 ZCZC W04 20 L22 YouTube - Mr. Yoda Yoda
 ZCZC W04 30 L01 Scele - Trying to access os211.vlsm.org
+ZCZC W04 30 L23 Discord PopQuiz - W04Q1N
+ZCZC W05 80 L02 Zoom weekly meeting on 31 Mar
+ZCZC W05 15 L01 Zoom PopQuiz W05Q01 - Email chtoken
+ZCZC W05 40 L01 Scele PopQuiz W05Q02 Special - Transfer file to Kawung
+ZCZC W05 40 L11 Assignment #1 - Read OSC-10 Ch.10
+ZCZC W05 30 L12 Assignment #2 - Ranking my 10 neighbors
+ZCZC W05 60 L13 Assignment #3 - Top 10 List
+ZCZC W05 90 L05 GSGS related for my top 10 list
+ZCZC W05 60 L14 Assignment #4 - Tarbal and TOP setup
