@@ -27,7 +27,7 @@
 }
 
 .container a {
-  color: #FFFFFF;
+  color: #BF8B5B;
 }
 
 .container a:hover {
@@ -36,6 +36,7 @@
 
 .row {
   border: 3px solid black;
+  border-radius: 5px;
 }
 
 .column {
@@ -112,9 +113,10 @@
 }
 
 .navbar {
-  background-color: #222222;
+  background-color: #222;
   color:            #FFFFFF;
   font-size:        0.7em;
+  border-radius:    5px;
 }
 
 .navbar ul li {
@@ -129,8 +131,6 @@
 }
 
 .navbar ul li a:hover {
-  background:       blue;
-  color:            #CCCCCC;
   font-size:        1em;
   font-weight:      bold;
 }
