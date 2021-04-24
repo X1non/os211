@@ -67,3 +67,10 @@ ZCZC W05 60 L13 Assignment #3 - Top 10 List
 ZCZC W05 90 L05 GSGS related for my top 10 list
 ZCZC W05 60 L14 Assignment #4 - Tarbal and TOP setup
 ZCZC W05 30 L23 Discord PopQuiz W05Q1N
+ZCZC W06 45 L11 Assignment #1 - Read OSC-10 Ch.3 & Ch.4
+ZCZC W06 30 L12 Assignment #2 - Ranking my 10 neighbors
+ZCZC W06 60 L13 Assignment #3 - Top 10 list
+ZCZC W06 90 L05 GSGS related for my top 10 list
+ZCZC W06 30 L14 Assignment #4 - w06fork txt file and tarball
+ZCZC W06 30 L01 Scele PopQuiz
+ZCZC W06 30 L07 Trying W06 demos
