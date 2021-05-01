@@ -74,3 +74,13 @@ ZCZC W06 90 L05 GSGS related for my top 10 list
 ZCZC W06 30 L14 Assignment #4 - w06fork txt file and tarball
 ZCZC W06 30 L01 Scele PopQuiz
 ZCZC W06 30 L07 Trying W06 demos
+ZCZC W07 110 L02 Zoom weekly meeting on 26 Apr
+ZCZC W07 5 L02 PopQuiz W07Q01 - Email chktoken
+ZCZC W07 30 L01 Scele PopQuiz W07 Base64
+ZCZC W07 30 L01 Scele PopQuiz W07 Scele-quiz based
+ZCZC W07 45 L11 Assignment #1 - Read OSC10 Ch.6,7,8
+ZCZC W07 20 L12 Assignment #2 - Ranking my 10 neighbors
+ZCZC W07 60 L13 Assignment #3 - Top 10 list
+ZCZC W07 110 L05 GSGS related for my top 10 list
+ZCZC W07 50 L14 Assignment #4 - w07 report txt files and tarball
+ZCZC W07 15 L15 Assignment #5 - Update mylog and run myscript
